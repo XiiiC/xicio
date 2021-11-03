@@ -122,7 +122,9 @@ nav .menu{
   margin-right: auto;
   font-size: 18px;
   font-weight: 400;
+  border-style: solid;
   background-color: rgba(51, 0, 77, 0.6);
   color: white;
   text-align: justify;
+  padding: 1%;
 }
